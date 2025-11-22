@@ -1,4 +1,7 @@
 # FFmpeg-Python-Error-Solution
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Solutions-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-red)
 
 This document details the solution for the FFmpeg subprocess issue that occurs when executing `ffmpeg` using Python's `subprocess` library. The error typically indicates that `ffmpeg` is either not installed or not accessible on the system's PATH.
 
